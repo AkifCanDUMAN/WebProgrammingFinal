@@ -23,4 +23,9 @@ https://streetfood20.herokuapp.com
 
 ![Image](https://user-images.githubusercontent.com/73740265/171969148-a65826a2-7fb2-4604-8abf-37e8c62c1f64.png)
 
+## Registration Page
+![Image](https://user-images.githubusercontent.com/73740265/171969786-08134834-e883-4c00-bfd9-83098028545b.jpg)
 
+## Database:
+
+![Image](https://user-images.githubusercontent.com/73740265/171969711-cd898429-af12-4821-a35e-c3a419077a76.png)
