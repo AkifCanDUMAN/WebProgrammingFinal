@@ -2,6 +2,8 @@
 
 Web Programming Final Project
 
+For the Back-end Development with Spring Framework Web Programming Final project, what we were going to do this term was the delivery page, we fulfilled the tasks as best we could.
+
 ## Member :
 
 Akif Can DUMAN COM20-B
